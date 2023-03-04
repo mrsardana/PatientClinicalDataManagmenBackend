@@ -1,0 +1,16 @@
+{
+  "name": "patient-clinical-managment-backend",
+  "version": "1.0.0",
+  "description": "This project is used to design backend for Patient Clinical Data management application using REST API service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "DeepakSardana",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.10.0",
+    "restify": "^11.0.0"
+  }
+}
